@@ -1,0 +1,19 @@
+.inputtext{
+   width: 30%;
+    height: 40px;
+    display: inline-block;
+}
+
+
+.datewala{
+  
+    height: 40px;
+    display: inline-block;
+    width:50%
+}
+
+.forbox{
+    width: 100%;
+    display: inline-block;
+    height: 40px;;
+}
